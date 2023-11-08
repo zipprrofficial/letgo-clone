@@ -1,4 +1,4 @@
-A <a href="https://zipprr.com/category/letgo-clone/">letgo clone script</a> is a classifieds mobile app and website that replicates the experience of letgo. It allows users to easily buy and sell used goods locally through their smartphone. Key features include image-based listings, location-based search, in-app chatting and payments.
+A <a href="https://zipprr.com/letgo-clone/">letgo clone script</a> is a classifieds mobile app and website that replicates the experience of letgo. It allows users to easily buy and sell used goods locally through their smartphone. Key features include image-based listings, location-based search, in-app chatting and payments.
 
 <h2><b>Diverse features that benefit your business</b></h2>
 
